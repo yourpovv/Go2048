@@ -4,6 +4,10 @@
 
 **Terminal 2048 game built with Go, Bubbletea and Lipgloss.**
 
+[![GitHub](https://img.shields.io/github/stars/yourpovv/GOOB?style=social)](https://github.com/yourpovv/GOOB)
+
+https://github.com/user-attachments/assets/dc100a40-6fb8-4ec2-9d82-4f55974707dc
+
 </div>
 
 ## Requirements
